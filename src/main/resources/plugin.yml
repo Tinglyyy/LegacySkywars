@@ -1,0 +1,4 @@
+name: LegacySkywars
+version: '${project.version}'
+main: de.unverwunderbar.legacy.legacyskywars.LegacySkywars
+load: STARTUP
