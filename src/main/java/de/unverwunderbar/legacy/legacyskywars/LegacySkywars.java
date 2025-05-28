@@ -5,6 +5,8 @@ import de.unverwunderbar.legacy.legacyskywars.commands.ReloadCommand;
 import de.unverwunderbar.legacy.legacyskywars.commands.StartCommand;
 import de.unverwunderbar.legacy.legacyskywars.config.item.Loottables;
 import de.unverwunderbar.legacy.legacyskywars.config.world.Worlds;
+import de.unverwunderbar.legacy.legacyskywars.listener.gamelistener.InteractListener;
+import de.unverwunderbar.legacy.legacyskywars.listener.gamelistener.MoveListener;
 import de.unverwunderbar.legacy.legacyutils.Legacyutils;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -27,6 +29,9 @@ public final class LegacySkywars extends JavaPlugin {
 
         Worlds.init();
         Loottables.init();
+
+        getServer().getPluginManager().registerEvents(new InteractListener(), this);
+        getServer().getPluginManager().registerEvents(new MoveListener(), this);
 
         /*
             Deprecated: LegacyGameManager already defines GameWorld utility commands
