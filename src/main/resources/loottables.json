@@ -1,0 +1,356 @@
+{
+  "base" : [
+    {
+      "material" : "WOOD_SWORD",
+      "count" : 1,
+      "enchantments" : [
+
+      ]
+    }
+  ],
+
+  "middle": [
+    {
+      "material" : "WOOD_SWORD",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "DAMAGE_ALL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 1
+        }
+      ]
+    },
+    {
+      "material" : "GOLD_SWORD",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "DAMAGE_ALL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 2
+        }
+      ]
+    },
+
+    {
+      "material" : "IRON_HELMET",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "IRON_CHESTPLATE",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "IRON_LEGGINGS",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "IRON_BOOTS",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+
+    {
+      "material" : "DIAMOND_HELMET",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 2,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "DIAMOND_CHESTPLATE",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 2,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "DIAMOND_LEGGINGS",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 2,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "DIAMOND_BOOTS",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 2,
+      "enchantments" : [
+        {
+          "id" : "PROTECTION_ENVIRONMENTAL",
+          "power" : 2
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 3
+        }
+      ]
+    },
+
+    {
+      "material" : "DIAMOND_PICKAXE",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "DIG_SPEED",
+          "power" : 3
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 2
+        }
+      ]
+    },
+    {
+      "material" : "GOLD_PICKAXE",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "DIG_SPEED",
+          "power" : 3
+        }
+      ]
+    },
+    {
+      "material" : "DIAMOND_AXE",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "DIG_SPEED",
+          "power" : 3
+        },
+        {
+          "id" : "DURABILITY",
+          "power" : 2
+        }
+      ]
+    },
+    {
+      "material" : "GOLD_AXE",
+      "count" : 1,
+      "maxcount": 1,
+      "rarity": 1,
+      "enchantments" : [
+        {
+          "id" : "DIG_SPEED",
+          "power" : 3
+        }
+      ]
+    },
+
+    {
+      "material" : "STONE",
+      "count" : 16,
+      "maxcount": 48,
+      "rarity": 1,
+      "enchantments" : []
+    },
+
+    {
+      "material" : "WOOD",
+      "count" : 16,
+      "maxcount": 48,
+      "rarity": 1,
+      "enchantments" : []
+    },
+
+    {
+      "material" : "IRON_INGOT",
+      "count" : 2,
+      "maxcount": 8,
+      "rarity": 1,
+      "enchantments" : []
+    },
+    {
+      "material" : "DIAMOND",
+      "count" : 1,
+      "maxcount": 4,
+      "rarity": 2,
+      "enchantments" : []
+    },
+
+    {
+      "material":"GOLDEN_APPLE",
+      "count": 1,
+      "maxcount": 1,
+      "rarity": 4,
+      "enchantments": []
+    },
+    {
+      "material":"COOKED_CHICKEN",
+      "count": 8,
+      "maxcount": 32,
+      "rarity": 1,
+      "enchantments": []
+    },
+
+    {
+      "material":"ENDER_PEARL",
+      "count": 1,
+      "maxcount": 1,
+      "rarity": 6,
+      "enchantments": []
+    },
+    {
+      "material":"EXP_BOTTLE",
+      "count": 4,
+      "maxcount": 16,
+      "rarity": 3,
+      "enchantments": []
+    },
+    {
+      "material":"EGG",
+      "count": 1,
+      "maxcount": 3,
+      "rarity": 5,
+      "enchantments": []
+    },
+    {
+      "material":"SNOW_BALL",
+      "count": 1,
+      "maxcount": 3,
+      "rarity": 5,
+      "enchantments": []
+    },
+
+    {
+      "material":"LAVA_BUCKET",
+      "count":1,
+      "maxcount": 1,
+      "rarity": 2,
+      "enchantments":[]
+    },
+    {
+      "material":"WATER_BUCKET",
+      "count":1,
+      "maxcount": 1,
+      "rarity": 2,
+      "enchantments":[]
+    },
+    {
+      "material":"WEB",
+      "count":2,
+      "maxcount": 3,
+      "rarity": 2,
+      "enchantments":[]
+    },
+    {
+      "material":"TNT",
+      "count":1,
+      "maxcount": 9,
+      "rarity": 2,
+      "enchantments":[]
+    },
+
+    {
+      "material":"STICK",
+      "count":1,
+      "maxcount": 1,
+      "rarity": 6,
+      "enchantments":[
+        {
+          "id":"KNOCKBACK",
+          "power":1
+        }
+      ]
+    }
+
+
+  ],
+
+  "special" : [
+
+  ]
+}

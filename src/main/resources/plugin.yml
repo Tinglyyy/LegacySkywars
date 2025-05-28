@@ -2,3 +2,10 @@ name: LegacySkywars
 version: '${project.version}'
 main: de.unverwunderbar.legacy.legacyskywars.LegacySkywars
 load: STARTUP
+depend:
+  - legacyutils
+  - LegacyGameManager
+commands:
+  reload:
+    usage: <command>
+    aliases: [rl, swrl]
